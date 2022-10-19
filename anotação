@@ -1,0 +1,14 @@
+Início:
+
+1. git init
+2. git add .
+3. git commit -am"início do projeto"
+4. criar um repositório no github
+5. conectar seu projeto com o github
+
+
+Rotina:
+
+1. git add .
+2. git commit -am"atualização feita"
+3. git push origin main
