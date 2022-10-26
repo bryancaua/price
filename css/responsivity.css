@@ -1,0 +1,28 @@
+@media(min-width: 650px)  {
+    .inferior {
+        display:flex;
+        justify-content: center;
+    }
+
+    .esquerda,
+    .direita {
+        width: 100%;
+        padding-inline: 2.5rem;
+    }
+
+    main {
+        max-width: 650px;
+        padding: none;
+
+    }
+
+    body {
+        min-height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    superior
+    
+}
